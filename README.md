@@ -11,8 +11,7 @@
 - [Code Structure](#code-structure)
 - [Usage](#usage)
 - [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -67,8 +66,6 @@ To use the Veezeta System:
     cd Veezeta
     ```
 3. Compile and run the project.
-
-## Contributing
-
+4. 
 We welcome contributions! Please fork the repository and submit a pull request.
 
