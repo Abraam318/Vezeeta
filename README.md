@@ -71,4 +71,4 @@ To use the Veezeta System:
 ## Contributing
 
 We welcome contributions! Please fork the repository and submit a pull request.
-![Veezeta System](path-to-another-image.jpg)
+
