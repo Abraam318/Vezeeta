@@ -1,6 +1,6 @@
 # Veezeta
 
-![Veezeta](![BookingSystemforDoctors_b1467ae295ebc9f96502eb88a3e3513f_2000-2526319671](https://github.com/Abraam318/Vezeeta/assets/126262425/5e2a99b6-a4b9-4deb-b9e0-79659591a385)
+![Veezeta](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.storychief.com%2Faccount_3659%2FBookingSystemforDoctors_b1467ae295ebc9f96502eb88a3e3513f_2000.jpg&f=1&nofb=1&ipt=a57486162c0ee4ee660acd2c68c3a87e39faaaf4d3f53a6040c5efd3bfd2a5d2&ipo=images)
 )
 
 ## Table of Contents
